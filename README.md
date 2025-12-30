@@ -23,7 +23,9 @@ Install `pandas` if not already installed:
    pip install pandas
 ```
 Clone or download this repository.
-OR
+```bash
+git clone https://github.com/your_username/student-grade-tracker.git
+```
 Run the program:
 ```bash
 python main.py
