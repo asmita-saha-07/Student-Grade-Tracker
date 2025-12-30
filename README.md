@@ -1,4 +1,4 @@
-# Student Grading System
+# Student Grade Tracker
 
 A simple command-line Python program to manage student grades, calculate averages, and generate pass/fail remarks. It allows adding, viewing, deleting, and analyzing student marks for multiple subjects.
 
@@ -21,15 +21,15 @@ A simple command-line Python program to manage student grades, calculate average
 Install `pandas` if not already installed:
 ```bash
    pip install pandas
-```bash
+```
 Clone or download this repository.
-
+OR
 Run the program:
-
-python student_grading_system.py
-
+```bash
+python main.py
+```
 Follow the on-screen menu:
-
+```bash
 Choose your option:
 1. Add New Student
 2. View Grades
@@ -38,4 +38,5 @@ Choose your option:
 5. Calculate average grade
 6. Check for pass or fail
 7. Exit
---> 
+-->
+```
