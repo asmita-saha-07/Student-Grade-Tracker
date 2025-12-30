@@ -24,7 +24,7 @@ Install `pandas` if not already installed:
 ```
 Clone or download this repository.
 ```bash
-git clone https://github.com/your_username/student-grade-tracker.git
+git clone https://github.com/asmita-saha-07/student-grade-tracker.git
 ```
 Run the program:
 ```bash
